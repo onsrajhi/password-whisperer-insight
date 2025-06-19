@@ -3,6 +3,7 @@
 ## Project info
 
 **URL**: https://lovable.dev/projects/988dbf49-5668-4d8a-90b8-ba8c7e63c0fb
+**DEMO** : ![Demo](Screenshot from 2025-06-19 10-59-44.png)
 
 ## How can I edit this code?
 
